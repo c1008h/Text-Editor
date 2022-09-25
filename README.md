@@ -1,5 +1,5 @@
 # Text Editor
-![Untitled_ Sep 25, 2022 12_09 AM](https://user-images.githubusercontent.com/102135325/192132428-d825f3fb-66dc-4d8d-884c-4842f6070146.gif)
+![Untitled_ Sep 25, 2022 12_11 AM](https://user-images.githubusercontent.com/102135325/192132453-deeace20-7711-4515-b35e-9bf59d826ef8.gif)
 
 ## Description
 This is a text editor that can be downloaded to your computer from the <a href='https://chris-text-editor.herokuapp.com/'>deployed link</a>.
@@ -24,7 +24,7 @@ This is a text editor that can be downloaded to your computer from the <a href='
 
 
 ## Instructions
-
+![Untitled_ Sep 25, 2022 12_09 AM](https://user-images.githubusercontent.com/102135325/192132428-d825f3fb-66dc-4d8d-884c-4842f6070146.gif)
 ### Installation
 Use this command line to clone this repo before running the program:
 
