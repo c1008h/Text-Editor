@@ -1,4 +1,6 @@
 # Text Editor
+![Untitled_ Sep 25, 2022 12_09 AM](https://user-images.githubusercontent.com/102135325/192132428-d825f3fb-66dc-4d8d-884c-4842f6070146.gif)
+
 ## Description
 This is a text editor that can be downloaded to your computer from the <a href='https://chris-text-editor.herokuapp.com/'>deployed link</a>.
 ### Created with:
