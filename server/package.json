@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
-    "scripts": {
+    "scripts": { 
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
