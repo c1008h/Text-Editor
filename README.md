@@ -2,7 +2,8 @@
 ![Untitled_ Sep 25, 2022 12_11 AM](https://user-images.githubusercontent.com/102135325/192132453-deeace20-7711-4515-b35e-9bf59d826ef8.gif)
 
 ## Description
-This is a text editor that can be downloaded to your computer from the <a href='https://chris-text-editor.herokuapp.com/'>deployed link</a>.
+This is the <a href='https://chris-text-editor.herokuapp.com/'>deployed link</a>.
+
 ### Created with:
 - <a href='https://javascript.info/'>JavaScript</a>
 - <a href='https://www.npmjs.com/package/express'>Express</a>
@@ -33,7 +34,7 @@ Use this command line to clone this repo before running the program:
 Open the repo in VSC then open the terminal to that file. Once in the terminal, run `npm init --yes`. Once initualize is finished, run `npm install`. This should install all packages and dependencies that are needed for this app.
 
 ### Usage
-Type `npm start` into the terminal to run this app. 
+Type `npm start` into the terminal to run this app. This app is ran on `http://localhost:3001/`.
 
 ## Contribution
 Feel free to fork my portfolio.
