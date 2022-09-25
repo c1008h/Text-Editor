@@ -26,7 +26,7 @@ This is a text editor that can be downloaded to your computer from the <a href='
 ### Installation
 Use this command line to clone this repo before running the program:
 
->`git@github.com:c1008h/react-portfolio.git`
+>`git@github.com:c1008h/Text-Editor.git`
 
 Open the repo in VSC then open the terminal to that file. Once in the terminal, run `npm init --yes`. Once initualize is finished, run `npm install`. This should install all packages and dependencies that are needed for this app.
 
