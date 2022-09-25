@@ -22,7 +22,6 @@ This is a text editor that can be downloaded to your computer from the <a href='
 
 
 ## Instructions
-<a href='https://chris-hong-portfolio.herokuapp.com/'>Deployed link</a>
 
 ### Installation
 Use this command line to clone this repo before running the program:
