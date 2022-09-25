@@ -34,7 +34,7 @@ Use this command line to clone this repo before running the program:
 Open the repo in VSC then open the terminal to that file. Once in the terminal, run `npm init --yes`. Once initualize is finished, run `npm install`. This should install all packages and dependencies that are needed for this app.
 
 ### Usage
-Type `npm start` into the terminal to run this app. This app is ran on `http://localhost:3001/`.
+Type `npm start` into the terminal to run this app. This app is ran on `http://localhost:3001/`. The app will be downloadable once the user clicks the button.
 
 ## Contribution
 Feel free to fork my portfolio.
